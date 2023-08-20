@@ -8,4 +8,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 
-* fauzanabdihi, GitHub.
+* Muhammad Fauzan Abdihi, [GitHub](https://github.com/fauzanabdihi).
